@@ -1,0 +1,39 @@
+$headerFooterColor: #105592;
+$headerFooterTextColor: white;
+
+div.main{
+    font-family: 'Architects Daughter', cursive;
+}
+
+div#header.section{
+  background-color: $headerFooterColor;
+  color: $headerFooterTextColor;
+  height: 100px;
+  width: auto;
+  text-align: left;
+  h1{
+    padding-top: 10px;
+    padding-left: 50px;
+    font-size: 50px;
+  }
+}
+div#main.section{
+  display: flex;
+  flex-flow: row;
+  background-color: #78A5AE;
+  border-width: 100px;
+  border-color: black;
+  img{
+    padding: 20px;
+    padding-right: 60px;
+    order: 0;
+    width: 400px;
+    padding-top: 20px;
+    padding-left: 150px;
+  }
+  div.WWD{
+    order: 1;
+    width: 400px;
+
+  }
+}

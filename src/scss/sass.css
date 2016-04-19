@@ -127,11 +127,10 @@ footer#footer.section {
       float: left;
       font-size: 16px;
       color: white;
-      float: left;
       line-height: 90px; }
     footer#footer.section .content_bottFoot .icon_social {
       float: left;
-      margin-left: auto;
+      margin-left: 20px;
       height: 90px; }
       footer#footer.section .content_bottFoot .icon_social a {
         float: left;
@@ -139,4 +138,4 @@ footer#footer.section {
         margin-top: 20px;
         display: block; }
 
-/*# sourceMappingURL=style2.css.map */
+/*# sourceMappingURL=sass.css.map */

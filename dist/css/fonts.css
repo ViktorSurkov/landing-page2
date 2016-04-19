@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'BalsamiqRegular';
+	src: url('fonts/BalsamiqSansRegular.eot');
+	src: local('☺'), url('fonts/BalsamiqSansRegular.woff') format('woff'), url('fonts/BalsamiqSansRegular.ttf') format('truetype'), url('fonts/BalsamiqSansRegular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'BalsamiqBold';
+	src: url('fonts/BalsamiqSansBold.eot');
+	src: local('☺'), url('fonts/BalsamiqSansBold.woff') format('woff'), url('fonts/BalsamiqSansBold.ttf') format('truetype'), url('fonts/BalsamiqSansBold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -152,4 +152,28 @@ footer#footer.section{
       margin-bottom: 0;
     }
   }
+  .bottom_footer {
+    background: #085394;
+  }
+    .content_bottFoot{
+       max-width: 960px;
+       margin: auto;
+       span {
+       float: left;
+       font-size: 16px;
+       color: white;
+       float: left;
+       line-height: 90px;
+     }
+    .icon_social {
+      float: left;
+      a {
+        float: left;
+        margin-left: 10px;
+        margin-top: 20px;
+        display: block;
+      }
+    }
+  }
+  
 }
